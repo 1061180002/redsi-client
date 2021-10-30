@@ -1,5 +1,6 @@
 {
     "name": "zhe/laravel-redis-client",
+    "description": "my laravel redis client",
     "authors": [
         {
             "name": "zhe",
